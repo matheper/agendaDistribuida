@@ -1,0 +1,3 @@
+Run
+server: sudo ./agenda_server
+client: ./agenda_client localhost
